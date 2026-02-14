@@ -4,7 +4,7 @@
 🌿 Working on projects related to polyherbal Cardio protective formulations
 🎯 Goal: To become a skilled pharmacist and healthcare innovator 
 
-Skills
+Skills -
 Basic Pharmaceutical Knowledge
 Herbal Drug Research
 Research Documentation
@@ -12,7 +12,7 @@ MS Word, PowerPoint
 Basic medical coding Knowledge 
 Basic GitHub Usage
 
-Projects
+Project -
 Polyherbal Cardio protective Syrup using Withania Sominfera
 Research on Herbal Formulations
 
