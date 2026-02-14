@@ -17,8 +17,8 @@ Polyherbal Cardio protective Syrup using Withania Sominfera
 Research on Herbal Formulations
 
 Contact
-📧 Email: dhirajsonkamble601@gmail.com
-📍 Location: Pune, Maharashtra, India
+Email: dhirajsonkamble601@gmail.com 
+Location: Pune, Maharashtra, India
 
 <!---
 Dheeraj9021/Dheeraj9021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
